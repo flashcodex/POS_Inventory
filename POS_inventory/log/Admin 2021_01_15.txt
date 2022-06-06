@@ -1,0 +1,8 @@
+<tr> <td>John </td> <td>2021_01_15</td> <td>01:35:04pm</td><td>Log In</td></tr>
+<tr> <td> John</td> <td>2021_01_15</td> <td>01:37:01pm</td><td>Log Out</td></tr>
+<tr> <td>John </td> <td>2021_01_15</td> <td>01:37:49pm</td><td>Log In</td></tr>
+<tr> <td> John</td> <td>2021_01_15</td> <td>01:38:04pm</td><td>Log Out</td></tr>
+<tr> <td>Juan </td> <td>2021_01_15</td> <td>01:38:54pm</td><td>Log In</td></tr>
+<tr> <td> Juan</td> <td>2021_01_15</td> <td>01:39:04pm</td><td>Log Out</td></tr>
+<tr> <td>Juan </td> <td>2021_01_15</td> <td>01:39:34pm</td><td>Log In</td></tr>
+<tr> <td> Juan</td> <td>2021_01_15</td> <td>01:39:47pm</td><td>Log Out</td></tr>

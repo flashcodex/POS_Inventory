@@ -1,0 +1,38 @@
+<tr> <td> Samantha </td> <td>2020_05_04</td> <td>09:46:16am</td><td>Log In</td></tr>
+<tr> <td> Samantha</td> <td>2020_05_04</td> <td>09:46:32am</td><td>Log Out</td></tr>
+<tr> <td> Samantha </td> <td>2020_05_04</td> <td>10:02:34am</td><td>Log In</td></tr>
+<tr> <td> Samantha</td> <td>2020_05_04</td> <td>10:03:43am</td><td>Log Out</td></tr>
+<tr> <td> Samantha </td> <td>2020_05_04</td> <td>10:28:42am</td><td>Log In</td></tr>
+<tr> <td> Samantha</td> <td>2020_05_04</td> <td>10:31:13am</td><td>Log Out</td></tr>
+<tr> <td> Samantha </td> <td>2020_05_04</td> <td>10:38:25am</td><td>Log In</td></tr>
+<tr> <td> Samantha</td> <td>2020_05_04</td> <td>10:38:40am</td><td>Log Out</td></tr>
+<tr> <td> Samantha </td> <td>2020_05_04</td> <td>10:51:22am</td><td>Log In</td></tr>
+<tr> <td> Samantha</td> <td>2020_05_04</td> <td>10:52:08am</td><td>Log Out</td></tr>
+<tr> <td> Samantha </td> <td>2020_05_04</td> <td>11:51:50am</td><td>Log In</td></tr>
+<tr> <td> Samantha</td> <td>2020_05_04</td> <td>11:52:35am</td><td>Log Out</td></tr>
+<tr> <td> Samantha </td> <td>2020_05_04</td> <td>12:26:00pm</td><td>Log In</td></tr>
+<tr> <td> Samantha</td> <td>2020_05_04</td> <td>12:26:58pm</td><td>Log Out</td></tr>
+<tr> <td> Samantha </td> <td>2020_05_04</td> <td>12:52:35pm</td><td>Log In</td></tr>
+<tr> <td> Samantha</td> <td>2020_05_04</td> <td>12:52:58pm</td><td>Log Out</td></tr>
+<tr> <td> Samantha </td> <td>2020_05_04</td> <td>01:01:14pm</td><td>Log In</td></tr>
+<tr> <td> Samantha</td> <td>2020_05_04</td> <td>01:04:21pm</td><td>Log Out</td></tr>
+<tr> <td> Liezel </td> <td>2020_05_04</td> <td>01:09:07pm</td><td>Log In</td></tr>
+<tr> <td> Liezel</td> <td>2020_05_04</td> <td>01:09:13pm</td><td>Log Out</td></tr>
+<tr> <td> Reymark </td> <td>2020_05_04</td> <td>01:09:21pm</td><td>Log In</td></tr>
+<tr> <td> Reymark</td> <td>2020_05_04</td> <td>01:13:52pm</td><td>Log Out</td></tr>
+<tr> <td> Liezel </td> <td>2020_05_04</td> <td>01:14:49pm</td><td>Log In</td></tr>
+<tr> <td> Liezel</td> <td>2020_05_04</td> <td>01:14:58pm</td><td>Log Out</td></tr>
+<tr> <td> Reymark </td> <td>2020_05_04</td> <td>01:15:10pm</td><td>Log In</td></tr>
+<tr> <td> Reymark</td> <td>2020_05_04</td> <td>01:15:27pm</td><td>Log Out</td></tr>
+<tr> <td> Reymark </td> <td>2020_05_04</td> <td>01:16:00pm</td><td>Log In</td></tr>
+<tr> <td> Reymark</td> <td>2020_05_04</td> <td>01:16:11pm</td><td>Log Out</td></tr>
+<tr> <td> Reymark </td> <td>2020_05_04</td> <td>01:17:37pm</td><td>Log In</td></tr>
+<tr> <td> Reymark</td> <td>2020_05_04</td> <td>01:17:50pm</td><td>Log Out</td></tr>
+<tr> <td> Reymark </td> <td>2020_05_04</td> <td>01:18:41pm</td><td>Log In</td></tr>
+<tr> <td> Reymark</td> <td>2020_05_04</td> <td>01:19:01pm</td><td>Log Out</td></tr>
+<tr> <td> Samantha </td> <td>2020_05_04</td> <td>02:02:19pm</td><td>Log In</td></tr>
+<tr> <td> Samantha</td> <td>2020_05_04</td> <td>02:02:43pm</td><td>Log Out</td></tr>
+<tr> <td> Samantha </td> <td>2020_05_04</td> <td>02:03:36pm</td><td>Log In</td></tr>
+<tr> <td> Samantha</td> <td>2020_05_04</td> <td>02:03:49pm</td><td>Log Out</td></tr>
+<tr> <td> Reymark </td> <td>2020_05_04</td> <td>02:05:54pm</td><td>Log In</td></tr>
+<tr> <td> Reymark</td> <td>2020_05_04</td> <td>02:06:13pm</td><td>Log Out</td></tr>

@@ -1,0 +1,51 @@
+---------------------------------------INFORMATION MANAGEMENT PURPOSE-----------------------------------------------------
+
+THE GROUP DECIDED TO UPGRADE THE PREVIOUS PROJECT IN PHP, AND THE GROUP ASK FOR PERMISSION TO THE PREVOUS GROUP MEMBER 
+THAT IS NOT IN INFORMATION MANAGEMENT PROJECT GROUP AND THEY ALLOW IT. THE INFORMATION MANAGEMENT PROJECT GROUP (GROUP5)
+UPGRADE THE DATABASE
+
+THE GROUP MEMBER ARE :
+ADOLFO, MOISES G.
+ADEZA, HANNAH GRACE M. (NEW MEMBER)
+ARCILLA, PIERREVON D.	(NEW MEMBER)
+AURELIO, GLENMHAR P.
+MARTIRES, BRENDAN KENNETH E. (NEW MEMBER)
+
+
+-----------------------------------------FOR DEMO INFORMATION-----------------------------------------
+
+DEMO ACCOUNT (USERNAME AND PASSWORD ARE THE SAME)
+	ADMIN
+	  -Juan
+	  -Cherry
+	  -John
+
+	CUSTOMER
+	  -Reymark
+	  -Liezel
+          -Samantha
+
+	SUPPLIER
+	  -LIC
+	  -Abenson
+	  -Apple
+	  -Viajero
+	  -Babycare
+          -Healthwell
+	  -Sstore
+
+	WAREHOUSE
+	  -Laguna
+	  -Rizal
+	  -Cavite
+	  -Batangas
+
+	DELIVERY
+	  -Mark
+	  -James
+	  -Danilo
+	  -Ken
+	  -Paolo
+
+
+

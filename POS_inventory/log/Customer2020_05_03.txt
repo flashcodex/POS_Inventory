@@ -1,0 +1,16 @@
+<tr> <td> Samantha </td> <td>2020_05_03</td> <td>08:22:22pm</td><td>Log In</td></tr>
+<tr> <td> Samantha</td> <td>2020_05_03</td> <td>08:22:35pm</td><td>Log Out</td></tr>
+<tr> <td> Samantha </td> <td>2020_05_03</td> <td>08:22:56pm</td><td>Log In</td></tr>
+<tr> <td> Samantha</td> <td>2020_05_03</td> <td>08:24:05pm</td><td>Log Out</td></tr>
+<tr> <td> Samantha </td> <td>2020_05_03</td> <td>08:44:54pm</td><td>Log In</td></tr>
+<tr> <td> Samantha</td> <td>2020_05_03</td> <td>08:45:41pm</td><td>Log Out</td></tr>
+<tr> <td> Samantha </td> <td>2020_05_03</td> <td>08:47:20pm</td><td>Log In</td></tr>
+<tr> <td> Samantha</td> <td>2020_05_03</td> <td>09:07:41pm</td><td>Log Out</td></tr>
+<tr> <td> Samantha </td> <td>2020_05_03</td> <td>09:09:19pm</td><td>Log In</td></tr>
+<tr> <td> Samantha</td> <td>2020_05_03</td> <td>09:10:36pm</td><td>Log Out</td></tr>
+<tr> <td> Samantha </td> <td>2020_05_03</td> <td>09:12:06pm</td><td>Log In</td></tr>
+<tr> <td> Samantha</td> <td>2020_05_03</td> <td>09:12:32pm</td><td>Log Out</td></tr>
+<tr> <td> Liezel </td> <td>2020_05_03</td> <td>09:13:01pm</td><td>Log In</td></tr>
+<tr> <td> Liezel</td> <td>2020_05_03</td> <td>09:13:11pm</td><td>Log Out</td></tr>
+<tr> <td> Samantha </td> <td>2020_05_03</td> <td>09:27:45pm</td><td>Log In</td></tr>
+<tr> <td> Samantha</td> <td>2020_05_03</td> <td>09:28:17pm</td><td>Log Out</td></tr>

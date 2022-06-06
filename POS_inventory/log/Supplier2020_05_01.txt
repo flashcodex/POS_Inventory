@@ -1,0 +1,8 @@
+<tr> <td> Apple </td> <td>2020_05_01</td> <td>10:08:25pm</td><td>Log In</td></tr>
+<tr> <td> Apple </td> <td>2020_05_01</td> <td>10:08:30pm</td><td>Log Out</td></tr>
+<tr> <td> Apple </td> <td>2020_05_01</td> <td>10:10:00pm</td><td>Log In</td></tr>
+<tr> <td> Apple</td> <td>2020_05_01</td> <td>10:10:03pm</td><td>Log Out</td></tr>
+<tr> <td> LIC </td> <td>2020_05_01</td> <td>10:20:16pm</td><td>Log In</td></tr>
+<tr> <td> LIC</td> <td>2020_05_01</td> <td>10:20:32pm</td><td>Log Out</td></tr>
+<tr> <td> LIC </td> <td>2020_05_01</td> <td>10:33:31pm</td><td>Log In</td></tr>
+<tr> <td> LIC</td> <td>2020_05_01</td> <td>10:33:42pm</td><td>Log Out</td></tr>

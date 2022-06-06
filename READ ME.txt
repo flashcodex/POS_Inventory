@@ -1,0 +1,38 @@
+
+------------------------------------------FOR DEMO INFORMATION-----------------------------------------
+
+DEMO ACCOUNT (USERNAME AND PASSWORD ARE THE SAME)
+	ADMIN
+	  -Juan
+	  -Cherry
+	  -John
+
+	CUSTOMER
+	  -Reymark
+	  -Liezel
+          -Samantha
+
+	SUPPLIER
+	  -LIC
+	  -Abenson
+	  -Apple
+	  -Viajero
+	  -Babycare
+          -Healthwell
+	  -Sstore
+
+	WAREHOUSE
+	  -Laguna
+	  -Rizal
+	  -Cavite
+	  -Batangas
+
+	DELIVERY
+	  -Mark
+	  -James
+	  -Danilo
+	  -Ken
+	  -Paolo
+
+
+

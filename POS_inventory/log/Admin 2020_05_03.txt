@@ -1,0 +1,10 @@
+<tr> <td>Juan </td> <td>2020_05_03</td> <td>03:00:15pm</td><td>Log In</td></tr>
+<tr> <td> Juan</td> <td>2020_05_03</td> <td>03:14:46pm</td><td>Log Out</td></tr>
+<tr> <td>Juan </td> <td>2020_05_03</td> <td>03:54:06pm</td><td>Log In</td></tr>
+<tr> <td>Juan </td> <td>2020_05_03</td> <td>06:48:53pm</td><td>Log In</td></tr>
+<tr> <td> Juan</td> <td>2020_05_03</td> <td>06:49:02pm</td><td>Log Out</td></tr>
+<tr> <td>Juan </td> <td>2020_05_03</td> <td>06:53:32pm</td><td>Log In</td></tr>
+<tr> <td>Juan </td> <td>2020_05_03</td> <td>09:15:36pm</td><td>Log In</td></tr>
+<tr> <td> Juan</td> <td>2020_05_03</td> <td>09:15:51pm</td><td>Log Out</td></tr>
+<tr> <td>Juan </td> <td>2020_05_03</td> <td>09:54:48pm</td><td>Log In</td></tr>
+<tr> <td> Juan</td> <td>2020_05_03</td> <td>09:55:39pm</td><td>Log Out</td></tr>

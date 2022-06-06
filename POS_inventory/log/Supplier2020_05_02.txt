@@ -1,0 +1,10 @@
+<tr> <td> Apple </td> <td>2020_05_02</td> <td>12:22:26pm</td><td>Log In</td></tr>
+<tr> <td> Apple</td> <td>2020_05_02</td> <td>12:23:01pm</td><td>Log Out</td></tr>
+<tr> <td> Apple </td> <td>2020_05_02</td> <td>12:39:10pm</td><td>Log In</td></tr>
+<tr> <td> Apple</td> <td>2020_05_02</td> <td>12:40:38pm</td><td>Log Out</td></tr>
+<tr> <td> Apple </td> <td>2020_05_02</td> <td>12:40:45pm</td><td>Log In</td></tr>
+<tr> <td> Apple</td> <td>2020_05_02</td> <td>12:41:25pm</td><td>Log Out</td></tr>
+<tr> <td> Apple </td> <td>2020_05_02</td> <td>02:06:00pm</td><td>Log In</td></tr>
+<tr> <td> Apple</td> <td>2020_05_02</td> <td>02:06:11pm</td><td>Log Out</td></tr>
+<tr> <td> Apple </td> <td>2020_05_02</td> <td>02:06:16pm</td><td>Log In</td></tr>
+<tr> <td> Apple</td> <td>2020_05_02</td> <td>02:06:27pm</td><td>Log Out</td></tr>

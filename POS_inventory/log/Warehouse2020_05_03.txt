@@ -1,0 +1,8 @@
+<tr> <td> Canlubang </td> <td>2020_05_03</td> <td>09:11:10pm</td><td>Log In</td></tr>
+<tr> <td> Canlubang</td> <td>2020_05_03</td> <td>09:11:41pm</td><td>Log Out</td></tr>
+<tr> <td> Laguna </td> <td>2020_05_03</td> <td>09:15:55pm</td><td>Log In</td></tr>
+<tr> <td> Laguna</td> <td>2020_05_03</td> <td>09:24:22pm</td><td>Log Out</td></tr>
+<tr> <td> Canlubang </td> <td>2020_05_03</td> <td>09:26:07pm</td><td>Log In</td></tr>
+<tr> <td> Canlubang</td> <td>2020_05_03</td> <td>09:26:26pm</td><td>Log Out</td></tr>
+<tr> <td> Laguna </td> <td>2020_05_03</td> <td>09:55:48pm</td><td>Log In</td></tr>
+<tr> <td> Laguna</td> <td>2020_05_03</td> <td>09:56:10pm</td><td>Log Out</td></tr>

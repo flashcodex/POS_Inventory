@@ -1,0 +1,1 @@
+pag import mo ng db tangaling mo yun check dun sa Enable foreign key checks para di mag error

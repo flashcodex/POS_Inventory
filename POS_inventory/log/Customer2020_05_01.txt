@@ -1,0 +1,8 @@
+<tr> <td> Liezel </td> <td>2020_05_01</td> <td>10:03:58pm</td><td>Log In</td></tr>
+<tr> <td> Liezel</td> <td>2020_05_01</td> <td>10:04:05pm</td><td>Log Out</td></tr>
+<tr> <td> Liezel </td> <td>2020_05_01</td> <td>10:04:09pm</td><td>Log In</td></tr>
+<tr> <td> Liezel</td> <td>2020_05_01</td> <td>10:07:17pm</td><td>Log Out</td></tr>
+<tr> <td> Liezel </td> <td>2020_05_01</td> <td>10:19:45pm</td><td>Log In</td></tr>
+<tr> <td> Liezel</td> <td>2020_05_01</td> <td>10:20:02pm</td><td>Log Out</td></tr>
+<tr> <td> Liezel </td> <td>2020_05_01</td> <td>10:30:49pm</td><td>Log In</td></tr>
+<tr> <td> Liezel</td> <td>2020_05_01</td> <td>10:32:19pm</td><td>Log Out</td></tr>

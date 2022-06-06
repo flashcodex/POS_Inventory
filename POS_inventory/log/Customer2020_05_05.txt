@@ -1,0 +1,4 @@
+<tr> <td> Reymark </td> <td>2020_05_05</td> <td>01:43:02pm</td><td>Log In</td></tr>
+<tr> <td> Reymark</td> <td>2020_05_05</td> <td>01:46:02pm</td><td>Log Out</td></tr>
+<tr> <td> Reymark </td> <td>2020_05_05</td> <td>02:12:30pm</td><td>Log In</td></tr>
+<tr> <td> Reymark</td> <td>2020_05_05</td> <td>02:29:30pm</td><td>Log Out</td></tr>
